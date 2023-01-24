@@ -25,7 +25,7 @@ direttamente su Eclipse ide (nessuna libreria aggiuntiva necessaria).
 <h1 align="center">Chi sono?</h1>
  
 <img src="https://user-images.githubusercontent.com/95580482/212113170-fc280d3c-1a93-4e5e-870c-3404efb77d85.png" width=20% height=20%><br>
-[Maxim Karlov](https://www.linkedin.com/in/maxim-karlov-34b859162/) come sviluppatore BackEnd <br>
+[Maxim Karlov](https://www.linkedin.com/in/maxim-karlov-34b859162/) Sviluppatore Full Stack Java <br>
 [Linkedin](https://www.linkedin.com/in/maxim-karlov-34b859162/) - [GitHub](https://github.com/IlMaxone)
 
 <hr>
