@@ -19,7 +19,7 @@ Downloads degli eseguibili:<br>
 Attenzione non tutti i progetti hanno un eseguibile ed è consigliabile avviare il codice sorgente
 direttamente su Eclipse ide (nessuna libreria aggiuntiva necessaria).
 
-[BlackJack Mania Demo](https://mega.nz/folder/wlo3SYpa#0sy7QPxLwb_YvSKjEarsQQ)
+[BlackJack Mania Demo](https://mega.nz/folder/wlo3SYpa#0sy7QPxLwb_YvSKjEarsQQ) <br>
 [Monster Combact Demo](https://mega.nz/folder/Vx4hXZBB#qg7z6KgQu3Y6GqznVulYcg)
 
 <h1 align="center">Chi sono?</h1>
